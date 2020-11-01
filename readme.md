@@ -1,7 +1,8 @@
 # shadowsocks 安装使用
 本文只讨论安装,和简单firewalld影响,暂时不考虑selinux和其他网络安全影响
 
-[shadowsocks.sh安装脚本](https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh) [hadowsocks.sh github](https://github.com/teddysun/shadowsocks_install)
+[shadowsocks.sh安装脚本](https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh)  
+[hadowsocks.sh github](https://github.com/teddysun/shadowsocks_install)  
 [shadowsocks windows客户端](https://github.com/shadowsocks/shadowsocks-windows)  
 ![客户端页面](./windowsssr.png)  
 
